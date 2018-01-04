@@ -26,3 +26,5 @@ $ roslaunch urdf_tutorial display.launch model:='wheelchair.urdf'
 ![Alt text](/screenshots/wheelchair.png "Wheelchair URDF")
 
 ![Alt text](/screenshots/padbot_p1.png "Padbot P1 URDF")
+
+![Alt text](/screenshots/padbot_t1.png "Padbot T1 URDF")
